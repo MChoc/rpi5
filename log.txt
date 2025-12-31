@@ -1,0 +1,58 @@
+=== Game Launch Debug Log ===
+Date: Wed 31 Dec 16:24:35 AEDT 2025
+Args: 0 _SYS_ gba /home/mchoc/RetroPie/roms/gba/Pokemon - Emerald Version (U).gba
+
+=== Environment ===
+DBUS_SESSION_BUS_ADDRESS=unix:path=/run/user/1000/bus
+DESKTOP_SESSION=rpd-x
+DISPLAY=:0
+GDMSESSION=rpd-x
+GPG_AGENT_INFO=/run/user/1000/gnupg/S.gpg-agent:0:1
+HOME=/home/mchoc
+LANG=en_GB.UTF-8
+LOGNAME=mchoc
+_LXSESSION_PID=1057
+NO_AT_BRIDGE=1
+PATH=/usr/local/sbin:/usr/local/bin:/usr/sbin:/usr/bin:/sbin:/bin:/usr/local/games:/usr/games
+PWD=/home/mchoc
+QT_QPA_PLATFORMTHEME=qt5ct
+SAL_USE_VCLPLUGIN=gtk3
+SHELL=/bin/bash
+SHLVL=2
+SSH_AGENT_PID=1125
+SSH_AUTH_SOCK=/tmp/ssh-lIDtoxBUzgpw/agent.1057
+TEXTDOMAIN=pam_chksshpwd
+TTY=y
+USER=mchoc
+_=/usr/bin/env
+XAUTHORITY=/home/mchoc/.Xauthority
+XDG_CONFIG_DIRS=/etc/xdg
+XDG_CONFIG_HOME=/home/mchoc/.config
+XDG_CURRENT_DESKTOP=LXDE
+XDG_DATA_DIRS=~/.local/share:/usr/local/share:/usr/share/raspi-ui-overrides:/usr/share:/usr/share/gdm:/var/lib/menu-xdg
+XDG_GREETER_DATA_DIR=/var/lib/lightdm/data/mchoc
+XDG_MENU_PREFIX=rpd-
+XDG_RUNTIME_DIR=/run/user/1000
+XDG_SEAT_PATH=/org/freedesktop/DisplayManager/Seat0
+XDG_SEAT=seat0
+XDG_SESSION_CLASS=user
+XDG_SESSION_DESKTOP=rpd-x
+XDG_SESSION_ID=1
+XDG_SESSION_PATH=/org/freedesktop/DisplayManager/Session0
+XDG_SESSION_TYPE=x11
+XDG_VTNR=7
+
+=== Groups ===
+mchoc adm dialout cdrom sudo audio video plugdev games users netdev gpio i2c spi render input
+
+=== Running actual runcommand ===
+tput: No value for $TERM and no -T specified
+TERM environment variable not set.
+Error opening terminal: unknown.
+/opt/retropie/supplementary/runcommand/runcommand.sh: line 1287: /dev/tty: No such device or address
+TERM environment variable not set.
+/opt/retropie/supplementary/runcommand/runcommand.sh: line 1329: /dev/tty: No such device or address
+TERM environment variable not set.
+tput: No value for $TERM and no -T specified
+
+=== Exit Code: 0 ===
