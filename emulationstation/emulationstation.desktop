@@ -1,0 +1,4 @@
+[Desktop Entry]
+Type=Application
+Name=EmulationStation
+Exec=/home/mchoc/emulationstation/autostart.sh
